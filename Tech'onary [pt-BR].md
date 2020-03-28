@@ -1,6 +1,6 @@
 # Grupos de palavras
 
-##### Database: [ DCL, DDL, DML, DQL, FK, PK, SQL, TCL ]
+##### Database: [ Database, DCL, DDL, DML, DQL, FK, PK, SQL, TCL ]
 
 ##### Web: [ HTTP, HTTPS ]
 
