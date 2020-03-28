@@ -1,10 +1,12 @@
 # Grupos de palavras
 
-##### Database: [ Database, DCL, DDL, DML, DQL, FK, PK, SQL, TCL ]
+##### Banco de dados: [ Database, DCL, DDL, DML, DQL, FK, PK, SQL, TCL ]
+
+##### Desenvolvimento: [ API, Interface ]
 
 ##### Web: [ HTTP, HTTPS ]
 
-##### Development: [ API, Interface ]
+------
 
 
 
